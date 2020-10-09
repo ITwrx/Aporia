@@ -1,5 +1,7 @@
 # Aporia
 
+**Note from ITwrx:** This is a fork of an abandoned package, only used for research for now.
+
 **Note:** As of 2018 Aporia is considered obsolete. Most of the Nim community
 has switched to VS Code instead. Feel free to use Aporia, but know that it
 may not be maintained anymore.
